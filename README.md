@@ -36,10 +36,6 @@ This project is a simple HTML, JavaScript, and CSS demonstration that takes user
 - `style.css`: Defines the styling for the page.
 - `script.js`: Implements the logic for the 4-2-1 loop and handles user input.
 
-## Acknowledgments
-
-This project was inspired by the Collatz conjecture and is meant for educational purposes to illustrate the 4-2-1 loop sequence.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
